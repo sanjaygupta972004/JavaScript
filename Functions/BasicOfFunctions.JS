@@ -40,6 +40,6 @@ alert(state)//bihar,unchanged, the function did not access the outer
 function sum(a,b){    //parameters:a,b
 return a+b    // returning value a+b
 }
-let result=sum(8,9)  //actural argument:8,9
+let result=sum(8,9)  //actural arguments:8,9
 console.log(result)
 
